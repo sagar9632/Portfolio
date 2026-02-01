@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.801a8ff6.css",
+    "main.js": "/Portfolio/static/js/main.6d916c79.js",
+    "static/media/realestate.jpg": "/Portfolio/static/media/realestate.7a3e05f2bfe7cc98767b.jpg",
+    "static/media/mobile.jpg": "/Portfolio/static/media/mobile.4541d886cea297040c06.jpg",
+    "static/media/vlss.jpg": "/Portfolio/static/media/vlss.39e48847a00a2ef966e1.jpg",
+    "static/media/gym.jpg": "/Portfolio/static/media/gym.49e8b6ac3feda0553f53.jpg",
+    "static/media/sagarimg1.png": "/Portfolio/static/media/sagarimg1.ed8c0ac25f4bf6572495.png",
+    "static/media/hotel.jpg": "/Portfolio/static/media/hotel.fd36e0e1eaa63c7d7f9e.jpg",
+    "static/media/job.jpg": "/Portfolio/static/media/job.89f673d762d37b6ae1cb.jpg",
+    "static/media/restraunt.jpg": "/Portfolio/static/media/restraunt.2afa90c8fbbb5d9d91c2.jpg",
+    "static/media/leafchap.jpg": "/Portfolio/static/media/leafchap.a8f56ed91bf8f394e021.jpg",
+    "static/media/s1.png": "/Portfolio/static/media/s1.872a9a58aacd38f885ab.png",
+    "index.html": "/Portfolio/index.html",
+    "main.801a8ff6.css.map": "/Portfolio/static/css/main.801a8ff6.css.map",
+    "main.6d916c79.js.map": "/Portfolio/static/js/main.6d916c79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.801a8ff6.css",
+    "static/js/main.6d916c79.js"
+  ]
+}
